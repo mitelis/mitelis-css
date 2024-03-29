@@ -459,7 +459,7 @@ button {
   font-family: Outfit;
   font-style: normal;
   font-weight: 100 900;
-  src: url(/_nuxt/Outfit-VariableFont_wght.DbMSL6pt.ttf) format("ttf")
+  src: url(https://zoomovgang.github.io/mitelis-css/font.ttf) format("ttf")
 }
 
 .body {
