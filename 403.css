@@ -1,4 +1,4 @@
-
+    <style>
       @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 
       /*! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com*/
@@ -510,3 +510,4 @@
           padding-left: 3rem
         }
       }
+    </style>
